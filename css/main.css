@@ -1,0 +1,9 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+  }
+
+.hijo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
